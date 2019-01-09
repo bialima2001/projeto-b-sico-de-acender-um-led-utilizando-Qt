@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui serialport //adicionado o modulo serialport
+QT       += core gui serialport #adicionado o modulo serialport, os coments aqui são com hastags que top
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
